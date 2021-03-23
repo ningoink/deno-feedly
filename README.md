@@ -48,6 +48,16 @@ In every two week, I'll try to:
 * Second week, publish Deno Feedly's new issue with two language vision.
 * Remember: Make adequate preparation to collect, organize, format, translate, and publish.
 
+## Growth Wish
+
+Not just collecting infos and use much time to write and publish, but also trough the collecting:
+
+* Find my next original/translate article idea.
+* Find more Github repo (including mine) to make a contribution.
+* Make sure all the collected articles and resources I had learned patiently.
+* **Important Notice**: Make sure every week, spend a few hours in study, don't make the second week too heavy.
+* Learn the newest Deno new Tech knowledge as quick as possible.
+
 ## Development
 
 ```bash

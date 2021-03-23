@@ -104,4 +104,4 @@ Deno 最新的大版本 v1.6.0 在 2020 年 12 月 8 号正式发布，其中引
 
 - Github: [https://github.com/hylerrix/deno-tutorial/discussions](https://github.com/hylerrix/deno-tutorial/discussions). 没错，我接下来将会让这个仓库更加的国际化，可以集中在这里畅聊任何有关 Deno 的内容。
 - Discord: [https://discord.com/invite/e5uuDMjpFC](https://discord.com/invite/e5uuDMjpFC). 初入 Discord，有趣的是，其支持编写各种资讯机器人。前面的链接是一个仅限前一百个人加入的永久邀请链接（长远来看，估计不会超过这个数量）。
-- Wechat: 公众号 ([@ningowood) ](https://www.yuque.com/ningowood))里寻找。
+- WeChat: 公众号 ([@ningowood) ](https://www.yuque.com/ningowood))里寻找。

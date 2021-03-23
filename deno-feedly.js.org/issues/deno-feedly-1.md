@@ -2,7 +2,7 @@
 
 ## Introduction
 
-When Deno v1.0 released on May 13, 2020, I'm totally obsessed with it. More approach to the ideals of Web, TypeScript out of the box, all essential tools in one binary, based on Rust and V8, and a fresh new community... All the fashion Web tech I want to deep into are included.
+When Deno v1.0 released on May 13, 2020, I'm totally obsessed with it. More approach to the ideals of Web, TypeScript out of the box, all essential tools in one binary, based on Rust and V8, and a fresh new community... All the fashion Web tech I want to deep into is included.
 
 So I began my Deno adventure from that time. It seems that writing is something I'm better at. I started writing the most basic article about Deno and make some authorized translations into the Chinese Deno community. [@hylerrix/deno-tutorial](https://github.com/hylerrix/deno-tutorial) and [a@hylerrix/awesome-deno-cn](https://github.com/hylerrix/awesome-deno-cn) condensed all my early understanding of Deno. Meanwhile, in the whole of 2020, I started to write [@ningowood/open-source-magazine](https://github.com/ningowood/open-source-magazine) in the Chinese community to know the philosophy of Open Source deeper by collecting and sharing news and articles monthly.
 
@@ -105,4 +105,4 @@ Different community have different purposes, I created some server (chat room) w
 
 - Github: [https://github.com/hylerrix/deno-tutorial/discussions](https://github.com/hylerrix/deno-tutorial/discussions). Yeah, I will try to make this repo more international, this is the central discussion place in Github.
 - Discord: [https://discord.com/invite/e5uuDMjpFC](https://discord.com/invite/e5uuDMjpFC). I'm new to Discord, it seems like we can program automatic robot on it, so exciting! This is a permanent invite link for the first 100 people (probably won't exceed this amount in the foreseeable future).
-- Wechat: Official Account ([@ningowood) ](/ningowood) ) with chat room inside.
+- WeChat: Official Account ([@ningowood) ](/ningowood) ) with chat room inside.
